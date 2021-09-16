@@ -23,6 +23,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gizpiritImportadora/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/gizpiritImportadora/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gizpiritImportadora/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/gizpiritImportadora/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gizpiritImportadora/src/app/components/productos/productos.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/gizpiritImportadora/src/app/components/productos/productos.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gizpiritImportadora/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gizpiritImportadora/src/environments/environment.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +50,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../prueba2b" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../pruebas web/prueba 2b" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -73,7 +74,10 @@
       <workItem from="1631163889779" duration="2483000" />
       <workItem from="1631493952145" duration="635000" />
       <workItem from="1631554592181" duration="1450000" />
-      <workItem from="1631582362345" duration="439000" />
+      <workItem from="1631582362345" duration="6590000" />
+      <workItem from="1631637580627" duration="4232000" />
+      <workItem from="1631644721159" duration="941000" />
+      <workItem from="1631649903422" duration="1089000" />
     </task>
     <servers />
   </component>
@@ -101,10 +105,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="115" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1631159488141" />
-    <state x="165" y="170" key="FileChooserDialogImpl" timestamp="1631582389576">
+    <state x="756" y="127" key="FileChooserDialogImpl" timestamp="1631650176540">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="165" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1631582389576" />
+    <state x="756" y="127" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1631650176540" />
     <state width="746" height="213" key="GridCell.Tab.0.bottom" timestamp="1631556055011">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
